@@ -6,7 +6,7 @@ and sets up a crate that build against them.
 With nix available,
 clone the repo,
 cd inside and run
-`nix develop .#tess_test`.
+`nix develop .`
 
 Once inside the devShell, 
 your general rust packages are available
